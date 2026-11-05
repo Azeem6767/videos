@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node *)",
+      "Bash(curl -sI --max-time 10 https://registry.npmjs.org/)",
+      "Bash(curl -s --max-time 10 https://registry.npmjs.org/remotion/4.0.290)",
+      "Read(//home/azeem/shorts/**)",
+      "Read(//home/azeem/nine-lives/**)",
+      "Bash(npm install *)",
+      "Bash(npx remotion *)",
+      "Bash(echo \"EXIT=$?\")",
+      "Read(//tmp/**)",
+      "Bash(fc-list)",
+      "Bash(chmod +x /home/azeem/Documents/videos/scripts/*.sh)",
+      "Bash(npx tsc *)",
+      "Bash(ffprobe -v error -show_entries format=duration,size,bit_rate -show_entries stream=codec_name,width,height,r_frame_rate /tmp/test_clip.mp4)"
+    ]
+  }
+}

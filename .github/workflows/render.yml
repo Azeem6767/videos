@@ -1,0 +1,41 @@
+name: Render video
+
+on:
+  workflow_dispatch:
+    inputs:
+      composition:
+        description: "Composition ID"
+        required: true
+        default: "test"
+      entry:
+        description: "Entry file"
+        required: true
+        default: "src/index.ts"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install system libs for Chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libnss3 libdbus-1-3 libatk1.0-0 libasound2t64 \
+            libxrandr2 libxkbcommon-dev libxfixes3 libxcomposite1 libxdamage1 \
+            libgbm-dev libcups2 ffmpeg
+
+      - run: npm ci
+
+      - name: Render
+        run: npx remotion render ${{ inputs.entry }} ${{ inputs.composition }} out/video.mp4
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: video
+          path: out/video.mp4
+          retention-days: 7

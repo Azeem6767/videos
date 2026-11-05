@@ -1,0 +1,70 @@
+[hook] @narrator A wallet lies on the pavement. [beat] Cash inside. [pause] And nobody is watching.
+[hook] @narrator Do you walk away with it... [beat] or go looking for the person it belongs to?
+[normal] @narrator Hold that thought. By the end of this video, you'll know what thousands of strangers, in forty countries, really did. [pause] And it is not what most people predict.
+ 
+[normal] @narrator Meet our guy. Orange cap. Headphones. Dark hoodie. [beat] We'll call him... Just A Guy.
+[normal] @narrator It's a gray Tuesday evening. He's walking home from work, music in his ears, thinking about absolutely nothing.
+[slow] @narrator And then... [beat] something flat and brown, lying under a streetlamp.
+[normal] @narrator He stops. [beat] Pulls out one headphone. [pause] Picks it up.
+[normal] @narrator A wallet. Worn at the corners. [beat] Nothing fancy.
+[normal] @narrator He turns it over. A small tear along the stitching. Someone has carried this for a long time.
+[normal] @narrator He opens it. [pause] And inside, folded in half... [beat] a hundred dollars.
+[normal] @narrator He looks left. [beat] He looks right. [pause] The street is empty. No cameras. Just a flickering lamp.
+[normal] @narrator A hundred dollars. [beat] That's a week of groceries. Or the shoes he keeps promising he'll replace.
+ 
+[whisper] @narrator Keep it. [beat] Nobody will ever know. [pause] Whoever lost it was careless. That's not your problem.
+[normal] @narrator That's the voice on his left shoulder. A tiny stickman in a red scarf, with a lot of very good ideas.
+[normal] @narrator And on the right shoulder? [beat] Another tiny stickman. Arms crossed. Extremely unimpressed.
+[slow] @narrator Somebody is about to reach into their pocket... [beat] and find nothing.
+[normal] @narrator Our guy sighs. [pause] He pulls out a few small cards. A name. An email address.
+[normal] @narrator And folded behind them, a grocery list. In careful handwriting. [beat] Milk. Rice. Birthday candles.
+[sad] @narrator And one single key.
+[sad] @narrator [pause] Somewhere out there, someone is turning out their pockets right now... looking for the key to their own front door.
+[whisper] @narrator Still... a hundred dollars.
+[slow] @narrator But the little guy in red doesn't sound quite so sure anymore.
+[normal] @narrator He starts to walk. [beat] Three steps. [pause] Four. [pause] The wallet is still in his hand.
+ 
+[normal] @narrator Just A Guy takes out his phone. [pause] Types the email address. [beat]
+[normal] @narrator "I found your wallet. It's safe. Everything is still inside."
+[normal] @narrator [beat] Send. [pause] The tiny stickman in red lets out a long sigh... and vanishes with a pop.
+[reveal] @narrator Here's the thing about that moment. [pause] It isn't just a story. [beat] Researchers have staged it, for real, seventeen thousand, three hundred and three times.
+ 
+[normal] @narrator A team of economists, from the United States and Switzerland, wanted to test honesty where it actually costs something. [beat] Not in a lab. Not with play money. Out in the real world.
+[normal] @narrator Classic economic thinking says the bigger the prize, the more people keep. The team expected to find the point where honesty breaks.
+[normal] @narrator They visited three hundred and fifty-five cities, in forty countries. In city after city, a research assistant walked into a bank, a hotel, a post office, a museum, or a public office like a courthouse or a police station.
+[normal] @narrator They set a wallet on the counter and said, roughly: [beat] "I found this around the corner. I'm in a hurry. Can you take care of it?"
+[normal] @narrator Then they walked out. [beat] No name. No phone number. [pause] No proof they were ever there.
+[slow] @narrator Each wallet was a clear card holder, so the clerk could see inside. Three business cards with an invented owner's name and email. A grocery list in the local language. A key. [pause] And here's what changed from wallet to wallet. Some held no money at all... and some held about thirteen dollars, adjusted for what money buys in that country.
+[normal] @narrator The test was simple. [beat] Would anyone email the owner? The team waited a hundred days to find out.
+ 
+[hook] @narrator Before I show you the results, take a guess. [pause:1.5] Which wallet gets reported more often? [beat] The empty one... [beat] or the one with cash?
+[normal] @narrator The researchers asked ordinary people that very question. Sixty-four percent said more cash would mean fewer wallets reported. [beat] Almost three hundred professional economists were asked too. Neither group saw the real answer coming.
+[reveal] @narrator With no money inside, forty percent of wallets got an email to the owner. [beat] With about thirteen dollars? [pause] Fifty-one percent.
+[normal] @narrator Then, in the United States, the United Kingdom and Poland, the team raised the stakes to ninety-four dollars.
+[reveal] @narrator There, with no money: forty-six percent. [beat] Thirteen dollars: sixty-one. [pause] And ninety-four dollars? [dramatic] Seventy-two percent.
+[slow] @narrator The more the wallet was worth, [beat] the more people did the right thing.
+[excited] @narrator And across the whole study, that pattern showed up in thirty-eight of forty countries. In not one country did money significantly lower the reporting rate!
+[normal] @narrator Even the researchers didn't believe it at first. According to one of the authors, an early test run showed the same strange pattern. So they tripled the money. [pause] Nothing changed.
+ 
+[normal] @narrator So why? [pause] Maybe people feared getting caught. [beat] The team checked. Security cameras in the building? Other people nearby? Local lost-property laws? None of that explained the pattern.
+[normal] @narrator Maybe people expected a bigger reward for handing back more cash? Surveys in the US, the UK and Poland found no sign of that.
+[normal] @narrator Or maybe they pocketed the cash and sent the wallet anyway? [beat] The team audited a batch of the wallets that came back. More than ninety-eight percent of the money was still inside.
+[slow] @narrator That leaves two explanations. [pause] And you've already met them.
+[slow] @narrator The first is the person at the other end. [beat] In the US, the UK and Poland, when researchers took the key out of some wallets, people were about nine percentage points less likely to report them. [pause] They weren't just thinking about the money. They were thinking about the owner.
+[slow] @narrator The second is the story we tell about ourselves. [beat] In surveys, people said that keeping a wallet with more cash in it would feel more like stealing. [pause] The bigger the prize, the harder it is to see yourself as someone who isn't a thief.
+[normal] @narrator The authors are careful here. This fits their data, but it isn't proof. [pause] What people say in surveys doesn't always match what they'd really do.
+ 
+[normal] @narrator Now, this is not a story where everyone is a saint.
+[normal] @narrator Honesty varied enormously. Country averages ran from about fourteen percent to seventy-six percent.
+[normal] @narrator And remember what was actually measured. [beat] Whether the person at the desk emailed the owner. Not whether the wallet eventually found its way home.
+[slow] @narrator Critics pushed on exactly that. [pause] A team that repeated the experiment in China, published in P N A S in twenty twenty-three, saw similar email rates... but significantly higher honesty once they also counted wallets that were actually recovered.
+[normal] @narrator Their idea: in some cultures, people keep a found wallet safe, or hand it to an authority, rather than write to a stranger.
+[normal] @narrator So treat any single number with care.
+ 
+[normal] @narrator A week later, Just A Guy's phone buzzes. A reply.
+[happy] @narrator "Thank you. That was my last hundred until payday. And that key opens my front door."
+[normal] @narrator He reads it twice. [beat] Slides his headphones back on. [beat] And the tiny stickman in the red scarf, reading over his shoulder... quietly switches sides.
+[normal] @narrator No medal. No audience. [beat] Just a quiet street, and one less person worrying.
+[slow] @narrator Seventeen thousand, three hundred and three wallets. [pause] And in thirty-eight of forty countries, more money meant people were more likely to try to find the owner.
+[normal] @narrator Not everyone. Not every time. [beat] But more often than we'd ever guess.
+[end] @narrator So next time you wonder whether people are mostly selfish... [pause] remember the wallet on the counter. [long] And ask yourself... [pause] what would you have done?
